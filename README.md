@@ -9,4 +9,4 @@ This is a simple example how to use Go app with docker-compose.
 4. Clone repository: <code> git clone --recursive https://github.com/lfrancatto/go-with-compose.git </code>
 
 <h2>Getting Started</h2>
-Start service: docker-compose up
+Start service:  <code> docker-compose up </code>
